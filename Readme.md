@@ -4,8 +4,6 @@
 
 This is a static landing page for E-commerce website. This is just a simple HTML and CSS project I made for practice.
 
-<br>
-
 ---
 
 <br>
